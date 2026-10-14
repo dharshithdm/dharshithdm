@@ -1,5 +1,5 @@
 # 💫 About Me:
-Computer Engineering student at Rutgers University building AI-powered full-stack applications. Developed Money Wealth AI, a personal finance platform using Next.js, FastAPI, PostgreSQL, and Plaid, reducing query latency by 40% on AWS Aurora. Built TaskMate, a productivity tool with Flutter and real-time collaboration. Previously taught programming fundamentals to 10+ students at Code Ninjas. Proficient in Python, JavaScript, Java, C++, and modern frameworks. Seeking a software engineering internship for 2027.
+Computer Engineering student building AI-powered full-stack applications. Developed Money Wealth AI, a personal finance platform using Next.js, FastAPI, PostgreSQL, and Plaid, reducing query latency by 40% on AWS Aurora. Built TaskMate, a productivity tool with Flutter and real-time collaboration. Previously taught programming fundamentals to 10+ students at Code Ninjas. Proficient in Python, JavaScript, Java, C++, and modern frameworks. Seeking a software engineering internship for 2027.
 
 
 # 💻 Tech Stack:
